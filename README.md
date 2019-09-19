@@ -11,3 +11,6 @@ The assets container for the paper DTME
 <audio id='123' controls="" preload="none">
 <source id="mp3" src="./assets/testing_clip.wav">
 </audio>
+
+[Listening online](http://hexo-blog-1257698583.cos.ap-chengdu.myqcloud.com/1560332256921.wav)
+
