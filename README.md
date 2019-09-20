@@ -13,7 +13,7 @@ The assets container for the paper DTME
 
 ## Testing clip
 
-The clip is in the ```./assets/``` folder.
+The clip is in the [./assets/](https://github.com/kevinleeex/DTME/tree/master/assets) folder.
 
 You can also [listen online](http://hexo-blog-1257698583.cos.ap-chengdu.myqcloud.com/1560332256921.wav).
 
